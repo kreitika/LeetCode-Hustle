@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/kreitika/LeetCode-Hustle/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -35,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/kreitika/LeetCode-Hustle/tree/master/0706-design-hashmap) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/kreitika/LeetCode-Hustle/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/kreitika/LeetCode-Hustle/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/kreitika/LeetCode-Hustle/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
