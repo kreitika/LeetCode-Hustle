@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/kreitika/LeetCode-Hustle/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/kreitika/LeetCode-Hustle/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kreitika/LeetCode-Hustle/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
@@ -16,16 +17,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kreitika/LeetCode-Hustle/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -34,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -43,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/kreitika/LeetCode-Hustle/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kreitika/LeetCode-Hustle/tree/master/0706-design-hashmap) |
 ## Linked List
@@ -70,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/kreitika/LeetCode-Hustle/tree/master/0075-sort-colors) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
