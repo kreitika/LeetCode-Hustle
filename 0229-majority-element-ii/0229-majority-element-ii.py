@@ -1,12 +1,5 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        if len(nums) == 1 : return nums
-        if len(nums) == 2 :
-            if nums[0] != nums[1] : return nums
-            else : 
-                arr = [nums[0]]
-                return arr
-
         cand1 = nums[0]
         cand2 = 0
         for i in range(len(nums)):
