@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/kreitika/LeetCode-Hustle/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/kreitika/LeetCode-Hustle/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/kreitika/LeetCode-Hustle/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kreitika/LeetCode-Hustle/tree/master/0128-longest-consecutive-sequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kreitika/LeetCode-Hustle/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/kreitika/LeetCode-Hustle/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/kreitika/LeetCode-Hustle/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0229-majority-element-ii) |
