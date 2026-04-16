@@ -1,16 +1,8 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        current = 200
-        count = 0
-        answer = []
-        for i in range(len(nums)):
-            if nums[i] != current:
-                current = nums[i]
-                count += 1
-                answer.append( nums[i])
-        
-        for i in range(len(answer)):
-            nums[i] = answer[i]
-        return count
-    
-
+        l = 1
+        for r in range(1, len(nums)):
+            if nums[r] != nums[r-1]:
+                nums[l] = nums[r]
+                l += 1
+        return l 
