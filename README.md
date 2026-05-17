@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kreitika/LeetCode-Hustle/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kreitika/LeetCode-Hustle/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/kreitika/LeetCode-Hustle/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0704-binary-search) |
 ## Math
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/kreitika/LeetCode-Hustle/tree/master/0895-maximum-frequency-stack) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/kreitika/LeetCode-Hustle/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
