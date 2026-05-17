@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kreitika/LeetCode-Hustle/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/kreitika/LeetCode-Hustle/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kreitika/LeetCode-Hustle/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kreitika/LeetCode-Hustle/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/kreitika/LeetCode-Hustle/tree/master/0735-asteroid-collision) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kreitika/LeetCode-Hustle/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
