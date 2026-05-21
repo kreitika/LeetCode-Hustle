@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kreitika/LeetCode-Hustle/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kreitika/LeetCode-Hustle/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/kreitika/LeetCode-Hustle/tree/master/0682-baseball-game) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kreitika/LeetCode-Hustle/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kreitika/LeetCode-Hustle/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kreitika/LeetCode-Hustle/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -183,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kreitika/LeetCode-Hustle/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/kreitika/LeetCode-Hustle/tree/master/0881-boats-to-save-people) |
 ## String
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kreitika/LeetCode-Hustle/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/kreitika/LeetCode-Hustle/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kreitika/LeetCode-Hustle/tree/master/0875-koko-eating-bananas) |
