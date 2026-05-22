@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kreitika/LeetCode-Hustle/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kreitika/LeetCode-Hustle/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
+| [1095-find-in-mountain-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/1095-find-in-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kreitika/LeetCode-Hustle/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/kreitika/LeetCode-Hustle/tree/master/0981-time-based-key-value-store) |
+| [1095-find-in-mountain-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/1095-find-in-mountain-array) |
 ## Math
 |  |
 | ------- |
@@ -304,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kreitika/LeetCode-Hustle/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
