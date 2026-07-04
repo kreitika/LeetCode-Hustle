@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kreitika/LeetCode-Hustle/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kreitika/LeetCode-Hustle/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/kreitika/LeetCode-Hustle/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/1095-find-in-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kreitika/LeetCode-Hustle/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/kreitika/LeetCode-Hustle/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
