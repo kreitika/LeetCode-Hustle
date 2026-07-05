@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kreitika/LeetCode-Hustle/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kreitika/LeetCode-Hustle/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/kreitika/LeetCode-Hustle/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kreitika/LeetCode-Hustle/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/1095-find-in-mountain-array) |
 ## Divide and Conquer
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/kreitika/LeetCode-Hustle/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/kreitika/LeetCode-Hustle/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/kreitika/LeetCode-Hustle/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/kreitika/LeetCode-Hustle/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kreitika/LeetCode-Hustle/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/kreitika/LeetCode-Hustle/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kreitika/LeetCode-Hustle/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kreitika/LeetCode-Hustle/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -276,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kreitika/LeetCode-Hustle/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kreitika/LeetCode-Hustle/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0189-rotate-array) |
+| [0973-k-closest-points-to-origin](https://github.com/kreitika/LeetCode-Hustle/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -460,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/kreitika/LeetCode-Hustle/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kreitika/LeetCode-Hustle/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kreitika/LeetCode-Hustle/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
