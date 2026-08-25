@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/kreitika/LeetCode-Hustle/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/kreitika/LeetCode-Hustle/tree/master/0682-baseball-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kreitika/LeetCode-Hustle/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kreitika/LeetCode-Hustle/tree/master/0706-design-hashmap) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0410-split-array-largest-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kreitika/LeetCode-Hustle/tree/master/0287-find-the-duplicate-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kreitika/LeetCode-Hustle/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Doubly-Linked List
 |  |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0090-subsets-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kreitika/LeetCode-Hustle/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -543,4 +547,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kreitika/LeetCode-Hustle/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
