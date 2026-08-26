@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kreitika/LeetCode-Hustle/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kreitika/LeetCode-Hustle/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/kreitika/LeetCode-Hustle/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kreitika/LeetCode-Hustle/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/kreitika/LeetCode-Hustle/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kreitika/LeetCode-Hustle/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kreitika/LeetCode-Hustle/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/kreitika/LeetCode-Hustle/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/kreitika/LeetCode-Hustle/tree/master/0394-decode-string) |
@@ -571,4 +574,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
