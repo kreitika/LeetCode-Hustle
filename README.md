@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/kreitika/LeetCode-Hustle/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/kreitika/LeetCode-Hustle/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kreitika/LeetCode-Hustle/tree/master/0705-design-hashset) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/kreitika/LeetCode-Hustle/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/kreitika/LeetCode-Hustle/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kreitika/LeetCode-Hustle/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/kreitika/LeetCode-Hustle/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kreitika/LeetCode-Hustle/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/kreitika/LeetCode-Hustle/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/kreitika/LeetCode-Hustle/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
