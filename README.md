@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kreitika/LeetCode-Hustle/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/kreitika/LeetCode-Hustle/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0219-contains-duplicate-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kreitika/LeetCode-Hustle/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/kreitika/LeetCode-Hustle/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/kreitika/LeetCode-Hustle/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kreitika/LeetCode-Hustle/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/kreitika/LeetCode-Hustle/tree/master/0463-island-perimeter) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kreitika/LeetCode-Hustle/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/kreitika/LeetCode-Hustle/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kreitika/LeetCode-Hustle/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kreitika/LeetCode-Hustle/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kreitika/LeetCode-Hustle/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kreitika/LeetCode-Hustle/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kreitika/LeetCode-Hustle/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kreitika/LeetCode-Hustle/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kreitika/LeetCode-Hustle/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kreitika/LeetCode-Hustle/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kreitika/LeetCode-Hustle/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/kreitika/LeetCode-Hustle/tree/master/0463-island-perimeter) |
