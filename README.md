@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/kreitika/LeetCode-Hustle/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/kreitika/LeetCode-Hustle/tree/master/0981-time-based-key-value-store) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kreitika/LeetCode-Hustle/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1405-longest-happy-string](https://github.com/kreitika/LeetCode-Hustle/tree/master/1405-longest-happy-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kreitika/LeetCode-Hustle/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/kreitika/LeetCode-Hustle/tree/master/1768-merge-strings-alternately) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/kreitika/LeetCode-Hustle/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/kreitika/LeetCode-Hustle/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/kreitika/LeetCode-Hustle/tree/master/0901-online-stock-span) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kreitika/LeetCode-Hustle/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kreitika/LeetCode-Hustle/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -673,5 +675,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kreitika/LeetCode-Hustle/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kreitika/LeetCode-Hustle/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
