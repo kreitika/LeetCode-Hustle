@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/kreitika/LeetCode-Hustle/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kreitika/LeetCode-Hustle/tree/master/0304-range-sum-query-2d-immutable) |
+| [0332-reconstruct-itinerary](https://github.com/kreitika/LeetCode-Hustle/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kreitika/LeetCode-Hustle/tree/master/0417-pacific-atlantic-water-flow) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kreitika/LeetCode-Hustle/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0229-majority-element-ii) |
+| [0332-reconstruct-itinerary](https://github.com/kreitika/LeetCode-Hustle/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/kreitika/LeetCode-Hustle/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kreitika/LeetCode-Hustle/tree/master/0621-task-scheduler) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0239-sliding-window-maximum) |
+| [0332-reconstruct-itinerary](https://github.com/kreitika/LeetCode-Hustle/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/kreitika/LeetCode-Hustle/tree/master/0355-design-twitter) |
 | [0502-ipo](https://github.com/kreitika/LeetCode-Hustle/tree/master/0502-ipo) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kreitika/LeetCode-Hustle/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/kreitika/LeetCode-Hustle/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/kreitika/LeetCode-Hustle/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/kreitika/LeetCode-Hustle/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kreitika/LeetCode-Hustle/tree/master/0424-longest-repeating-character-replacement) |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kreitika/LeetCode-Hustle/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/kreitika/LeetCode-Hustle/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kreitika/LeetCode-Hustle/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/kreitika/LeetCode-Hustle/tree/master/0463-island-perimeter) |
@@ -627,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/kreitika/LeetCode-Hustle/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/kreitika/LeetCode-Hustle/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/kreitika/LeetCode-Hustle/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/kreitika/LeetCode-Hustle/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
 ## Topological Sort
@@ -650,4 +656,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/kreitika/LeetCode-Hustle/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/kreitika/LeetCode-Hustle/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/kreitika/LeetCode-Hustle/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
