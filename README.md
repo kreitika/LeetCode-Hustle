@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/kreitika/LeetCode-Hustle/tree/master/1584-min-cost-to-connect-all-points) |
 | [1834-single-threaded-cpu](https://github.com/kreitika/LeetCode-Hustle/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kreitika/LeetCode-Hustle/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kreitika/LeetCode-Hustle/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kreitika/LeetCode-Hustle/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/kreitika/LeetCode-Hustle/tree/master/0994-rotting-oranges) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kreitika/LeetCode-Hustle/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0410-split-array-largest-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kreitika/LeetCode-Hustle/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
 | ------- |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kreitika/LeetCode-Hustle/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kreitika/LeetCode-Hustle/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kreitika/LeetCode-Hustle/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
