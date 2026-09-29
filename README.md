@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/kreitika/LeetCode-Hustle/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/kreitika/LeetCode-Hustle/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/1095-find-in-mountain-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kreitika/LeetCode-Hustle/tree/master/1584-min-cost-to-connect-all-points) |
 | [1834-single-threaded-cpu](https://github.com/kreitika/LeetCode-Hustle/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kreitika/LeetCode-Hustle/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kreitika/LeetCode-Hustle/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/kreitika/LeetCode-Hustle/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kreitika/LeetCode-Hustle/tree/master/1584-min-cost-to-connect-all-points) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/kreitika/LeetCode-Hustle/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/kreitika/LeetCode-Hustle/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kreitika/LeetCode-Hustle/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -677,4 +680,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kreitika/LeetCode-Hustle/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kreitika/LeetCode-Hustle/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kreitika/LeetCode-Hustle/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kreitika/LeetCode-Hustle/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kreitika/LeetCode-Hustle/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kreitika/LeetCode-Hustle/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
