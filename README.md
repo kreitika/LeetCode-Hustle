@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/kreitika/LeetCode-Hustle/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/kreitika/LeetCode-Hustle/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kreitika/LeetCode-Hustle/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/kreitika/LeetCode-Hustle/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/kreitika/LeetCode-Hustle/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kreitika/LeetCode-Hustle/tree/master/0881-boats-to-save-people) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/kreitika/LeetCode-Hustle/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kreitika/LeetCode-Hustle/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kreitika/LeetCode-Hustle/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kreitika/LeetCode-Hustle/tree/master/1046-last-stone-weight) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/kreitika/LeetCode-Hustle/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/kreitika/LeetCode-Hustle/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kreitika/LeetCode-Hustle/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Prefix Sum
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kreitika/LeetCode-Hustle/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/kreitika/LeetCode-Hustle/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kreitika/LeetCode-Hustle/tree/master/1584-min-cost-to-connect-all-points) |
 ## Dynamic Programming
 |  |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/kreitika/LeetCode-Hustle/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/kreitika/LeetCode-Hustle/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/kreitika/LeetCode-Hustle/tree/master/0981-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/1095-find-in-mountain-array) |
@@ -526,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/kreitika/LeetCode-Hustle/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/kreitika/LeetCode-Hustle/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -574,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/kreitika/LeetCode-Hustle/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/kreitika/LeetCode-Hustle/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
@@ -666,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -700,4 +708,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/kreitika/LeetCode-Hustle/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
