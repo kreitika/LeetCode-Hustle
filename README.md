@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/kreitika/LeetCode-Hustle/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kreitika/LeetCode-Hustle/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/kreitika/LeetCode-Hustle/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kreitika/LeetCode-Hustle/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kreitika/LeetCode-Hustle/tree/master/1046-last-stone-weight) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0410-split-array-largest-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kreitika/LeetCode-Hustle/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kreitika/LeetCode-Hustle/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kreitika/LeetCode-Hustle/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/kreitika/LeetCode-Hustle/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kreitika/LeetCode-Hustle/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kreitika/LeetCode-Hustle/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/kreitika/LeetCode-Hustle/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/kreitika/LeetCode-Hustle/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/kreitika/LeetCode-Hustle/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kreitika/LeetCode-Hustle/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kreitika/LeetCode-Hustle/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -669,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kreitika/LeetCode-Hustle/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kreitika/LeetCode-Hustle/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
