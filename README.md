@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/kreitika/LeetCode-Hustle/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/kreitika/LeetCode-Hustle/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kreitika/LeetCode-Hustle/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/kreitika/LeetCode-Hustle/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/kreitika/LeetCode-Hustle/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/kreitika/LeetCode-Hustle/tree/master/0875-koko-eating-bananas) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0410-split-array-largest-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0746-min-cost-climbing-stairs](https://github.com/kreitika/LeetCode-Hustle/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kreitika/LeetCode-Hustle/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kreitika/LeetCode-Hustle/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
