@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kreitika/LeetCode-Hustle/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kreitika/LeetCode-Hustle/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kreitika/LeetCode-Hustle/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/kreitika/LeetCode-Hustle/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kreitika/LeetCode-Hustle/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/kreitika/LeetCode-Hustle/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/kreitika/LeetCode-Hustle/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kreitika/LeetCode-Hustle/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/kreitika/LeetCode-Hustle/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kreitika/LeetCode-Hustle/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kreitika/LeetCode-Hustle/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0140-word-break-ii) |
