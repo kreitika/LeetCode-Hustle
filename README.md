@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kreitika/LeetCode-Hustle/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kreitika/LeetCode-Hustle/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/kreitika/LeetCode-Hustle/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kreitika/LeetCode-Hustle/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/kreitika/LeetCode-Hustle/tree/master/0152-maximum-product-subarray) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kreitika/LeetCode-Hustle/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kreitika/LeetCode-Hustle/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/kreitika/LeetCode-Hustle/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/kreitika/LeetCode-Hustle/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/kreitika/LeetCode-Hustle/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kreitika/LeetCode-Hustle/tree/master/0146-lru-cache) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kreitika/LeetCode-Hustle/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kreitika/LeetCode-Hustle/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/kreitika/LeetCode-Hustle/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/kreitika/LeetCode-Hustle/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kreitika/LeetCode-Hustle/tree/master/0198-house-robber) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/kreitika/LeetCode-Hustle/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kreitika/LeetCode-Hustle/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kreitika/LeetCode-Hustle/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/kreitika/LeetCode-Hustle/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kreitika/LeetCode-Hustle/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kreitika/LeetCode-Hustle/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kreitika/LeetCode-Hustle/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kreitika/LeetCode-Hustle/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
@@ -662,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/kreitika/LeetCode-Hustle/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/kreitika/LeetCode-Hustle/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/kreitika/LeetCode-Hustle/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kreitika/LeetCode-Hustle/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -741,4 +747,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kreitika/LeetCode-Hustle/tree/master/0005-longest-palindromic-substring) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kreitika/LeetCode-Hustle/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
